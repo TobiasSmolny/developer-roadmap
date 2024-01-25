@@ -76,3 +76,5 @@ A hybrid topology combines two or more different topologies, such as a star and 
 - More expensive than other topologies
 
 Understanding these different network topologies can help you design a more secure and efficient network or improve the existing network structure in your organization. It's essential to consider factors such as scalability, reliability, and cost when selecting the best topology for your needs.
+
+- [Network Topologies (Star, Bus, Ring, Mesh, Ad hoc, Infrastructure, & Wireless Mesh Topology)](https://youtu.be/zbqrNg4C98U?feature=shared)
